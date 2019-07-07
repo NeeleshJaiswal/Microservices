@@ -1,0 +1,7 @@
+package com.in28minutes.microservices.netflixzuulapigatewayserver;
+
+import ZuulFilter;
+
+public class ZuulLoggingFilter extends ZuulFilter {
+
+}

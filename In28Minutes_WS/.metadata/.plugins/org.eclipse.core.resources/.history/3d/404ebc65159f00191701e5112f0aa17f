@@ -1,0 +1,5 @@
+package com.techprimers.security.springsecurityclient.config;
+
+public class WebConfig {
+
+}
